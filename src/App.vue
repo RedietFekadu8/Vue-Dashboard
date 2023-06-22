@@ -12,7 +12,11 @@ const authStore = useAuthStore();
         <div class="container pt-4 pb-4">
             <router-view />
         </div>
+        <!-- <h1 class="text-3xl font-bold underline">
+            Click Charts
+        </h1> -->
     </div>
+    
 </template>
 
 <style>
